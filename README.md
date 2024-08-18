@@ -84,7 +84,8 @@ The Software Testing Certification provided extensive training across various so
   - **Data-Driven Frameworks:** Implemented data-driven testing using Apache POI and Excel.
   - **Keyword-Driven Frameworks:** Gained knowledge of keyword-driven testing approaches.
   - **Hybrid Frameworks:** Explored hybrid frameworks combining multiple testing methodologies.
-- **JIRA:** Acquired practical experience with JIRA for defect tracking, project management, and team coordination.  
+- **JIRA:** Acquired practical experience with JIRA for defect tracking, project management, and team coordination.
+- **MySQL with Workbench:** Acquired basic skills in MySQL using MySQL Workbench, including fundamental database design and querying.
 
 This certification has significantly advanced my testing capabilities, enabling me to apply these skills in various projects to enhance software quality and streamline testing processes.
 
