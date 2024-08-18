@@ -90,8 +90,8 @@ This certification has significantly advanced my testing capabilities, enabling 
 
 # Soft skills
 
-- precision
-- communication
-- assertiveness
-- patience
-- empathy
+- Precision
+- Communication
+- Assertiveness
+- Patience
+- Empathy
