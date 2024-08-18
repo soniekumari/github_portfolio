@@ -88,7 +88,7 @@ The Software Testing Certification provided extensive training across various so
 
 This certification has significantly advanced my testing capabilities, enabling me to apply these skills in various projects to enhance software quality and streamline testing processes.
 
-# Soft skills
+# Soft Skills
 
 - Precision
 - Communication
