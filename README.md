@@ -66,6 +66,18 @@ In this project, I played a role in testing the InnerExplorer application to ens
 - Test documentation and reporting
 - Communicated via email with both clients and users
 
+# Project 4   	
+**Project Name:** Silvertalkies    
+**Technologies Used:** JIRA     
+**Project Description:** Silver Talkies is a pioneering social enterprise on a mission since 2024 to make healthy and active ageing a desirable and viable goal for older adults.       
+## Role and Responsibilities     
+In this project, I played a role in testing the Silver Talkies application to ensure that all functionalities were operating correctly. My responsibilities included:
+### Manual Testing:   
+- Test case creation and execution
+- Functional, regression, and exploratory testing
+- Defect tracking and reporting using JIRA
+- Test documentation and reporting
+
 ## Certifications
 
 ### Software Testing Certification
