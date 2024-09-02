@@ -4,7 +4,7 @@
 </p>
 
 # Profile Summary
-Proactive QA Automation Engineer with over 2 years of experience in software testing, including manual testing and automated testing. Adept at designing and executing both manual and automated test cases, managing test data, and utilizing modern tools and frameworks. Proven ability to improve software quality through effective test strategies, rigorous defect management, and detailed reporting. Committed to continuous learning and adapting to emerging technologies to ensure high-quality deliverables.
+Professional QA Automation Engineer with 2+ Years of experience in Software Testing. Involved in end-to-end software testing across multiple platforms. I have an experience in Manual Testing, Web Testing, Mobile Testing, Automation Testing and API Testing. Proven ability to improve software quality through effective test strategies, rigorous defect management, and detailed reporting. Committed to continuous learning and adapting to emerging technologies to ensure high-quality deliverables.
 
 # Project 1
 
