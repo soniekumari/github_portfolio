@@ -4,7 +4,7 @@
 </p>
 
 # Profile Summary
-Proactive QA Engineer with over 2 years of experience in software testing, including 1+ years of hands-on experience in manual testing and 1 year specializing in automated testing using Selenium with Java and TestNG. Adept at designing and executing both manual and automated test cases, managing test data, and utilizing modern tools and frameworks. Proven ability to improve software quality through effective test strategies, rigorous defect management, and detailed reporting. Committed to continuous learning and adapting to emerging technologies to ensure high-quality deliverables.
+Proactive QA Automation Engineer with over 2+ years of experience in software testing, including manual testing and automated testing. Adept at designing and executing both manual and automated test cases, managing test data, and utilizing modern tools and frameworks. Proven ability to improve software quality through effective test strategies, rigorous defect management, and detailed reporting. Committed to continuous learning and adapting to emerging technologies to ensure high-quality deliverables.
 
 # Project 1
 
