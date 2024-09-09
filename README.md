@@ -38,7 +38,7 @@ In this project, I played a crucial role in testing the Vitwo AI application to 
 - Implemented data-driven testing by integrating Excel sheets with Apache POI.
 - Created reusable test scripts for different data sets, enhancing test coverage.
 
-<img width="1024" alt="Screenshot 2023-10-31 at 12 27 14 PM" src="https://raw.githubusercontent.com/soniekumari/github_portfolio/main/ExcelData.png">
+<!--<img width="1024" alt="Screenshot 2023-10-31 at 12 27 14 PM" src="https://raw.githubusercontent.com/soniekumari/github_portfolio/main/ExcelData.png"> -->
 
 # Project 2  
 **Project Name:** Claimz    
