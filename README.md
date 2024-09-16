@@ -1,10 +1,10 @@
 <p align="center" style="font-size:50px;">
   <strong>Hi 👋, I'm KM Soni</strong><br>
-  <em>QA Automation Engineer</em>
+  <em>QA Engineer (Manual & Automation Tester)</em>
 </p>
 
 # Profile Summary
-Professional QA Automation Engineer with 2+ Years of experience in Software Testing. Involved in end-to-end software testing across multiple platforms. I have an experience in Manual Testing, Web Testing, Mobile Testing, Automation Testing and API Testing. Proven ability to improve software quality through effective test strategies, rigorous defect management, and detailed reporting. Committed to continuous learning and adapting to emerging technologies to ensure high-quality deliverables.
+Professional QA Engineer with 2+ Years of experience in Manual and Automation Testing. Involved in end-to-end software testing across multiple platforms. I have an experience in Manual Testing, Web Testing, Mobile Testing, Automation Testing and API Testing. Proven ability to improve software quality through effective test strategies, rigorous defect management, and detailed reporting. Committed to continuous learning and adapting to emerging technologies to ensure high-quality deliverables.
 
 # Project 1
 
