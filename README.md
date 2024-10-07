@@ -1,6 +1,6 @@
 <p align="center" style="font-size:50px;">
   <strong>Hi 👋, I'm KM Soni</strong><br>
-  <em>QA Engineer (Manual & Automation Tester)</em>
+  <em>QA Engineer (Manual & Automation Testing)</em>
 </p>
 
 # Profile Summary
